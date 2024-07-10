@@ -14,3 +14,4 @@ lpc_checksum
 
 # used by scripts/gen_cfb_font_header.py - helper script for user
 Pillow
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
